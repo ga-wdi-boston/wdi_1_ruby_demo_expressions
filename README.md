@@ -13,7 +13,7 @@ By the end of this, students should be able to:
 
 You've probably picked up a scientific calculator at some point in the past and started playing around with it.
 
-![A Calculator](/images/38-big.jpg =400px)
+![A Calculator](/images/38-big.jpg)
 
 You punch in a big number (for example, 9876435), then `*`, and then another big number (say, 373848221), hit the `=` button, and the calculator spits back a result (in this case, 3692287654572135).
 
