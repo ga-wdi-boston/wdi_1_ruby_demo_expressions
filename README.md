@@ -13,7 +13,7 @@ By the end of this, students should be able to:
 
 You've probably picked up a scientific calculator at some point in the past and started playing around with it.
 
-[A Calculator](images/38-big.jpg)
+![A Calculator](/images/38-big.jpg)
 
 You punch in a big number (for example, 9876435), then `*`, and then another big number (say, 373848221), hit the `=` button, and the calculator spits back a result (in this case, 3692287654572135).
 
@@ -27,7 +27,7 @@ In order to perform the `*` operation, we have to know the values of both of the
 
 We can represent this expression using a logical structure called a *tree*. See below.
 
-[Expression Tree](images/Expression_Tree.png)
+![Expression Tree](/images/Expression_Tree.png)
 
 Each operation in our expression takes two inputs, so every *node* in this tree has two *child nodes*. To evaluate any given node in the tree, you must first evaluate each of its child nodes, from left to right. In the case of the tree above, we would first evaluate (2+3) to get 5, then evaluate (9-8) to get 1, and finally evaluate (5*1) to get 5.
 
